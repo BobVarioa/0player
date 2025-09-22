@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="320"
+   height="320"
+   viewBox="0 0 320 320"
+   sodipodi:docname="ballast-corners.svg"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   inkscape:export-filename="ballast-corners.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <rect
+         style="opacity:1;fill:#3e3e3e;fill-opacity:1;stroke-width:0.01;stroke-linecap:round;stroke-linejoin:round"
+         id="rect18"
+         width="2.5"
+         height="2.5"
+         x="116.5"
+         y="307" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:current-layer="g83"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.5"
+       spacingy="0.5"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="32"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="g83"
+     inkscape:label="ballast-corners">
+    <g
+       id="g71">
+      <path
+         id="rect60"
+         style="fill:#464646;stroke-width:0;stroke-linecap:round;fill-opacity:1"
+         d="m 27,293 h 2 v 0.5 h -1.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="path1"
+         cx="16"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect48"
+         width="5"
+         height="5"
+         x="27"
+         y="288" />
+    </g>
+    <g
+       id="g72">
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse1"
+         cx="48"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect61"
+         width="5"
+         height="5"
+         x="32"
+         y="288" />
+      <path
+         id="path61"
+         style="fill:#464646;stroke-width:0;stroke-linecap:round;fill-opacity:1"
+         d="m 37,291 v 2 h -2 l 0.5,0.5 h 2 v -2 z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g73">
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse2"
+         cx="80"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect62"
+         width="5"
+         height="5"
+         x="64"
+         y="315" />
+      <path
+         id="path62"
+         style="fill:#464646;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         d="m 69,315 v 2 h 0.5 v -1.5 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g74">
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3"
+         cx="112"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect63"
+         width="5"
+         height="5"
+         x="123"
+         y="315" />
+    </g>
+    <g
+       id="g75">
+      <ellipse
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse4"
+         cx="144"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <ellipse
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse5"
+         cx="144"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <path
+         id="path63"
+         style="fill:#464646;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         d="m 155,293 h 2 v 0.5 h -1.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect64"
+         width="5"
+         height="5"
+         x="155"
+         y="288" />
+    </g>
+    <g
+       id="g76">
+      <ellipse
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse6"
+         cx="176"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect65"
+         width="5"
+         height="5"
+         x="160"
+         y="288" />
+      <path
+         id="path65"
+         style="fill:#464646;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         d="m 165,291 v 2 h -2 l 0.5,0.5 h 2 v -2 z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g77">
+      <ellipse
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse7"
+         cx="208"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect66"
+         width="5"
+         height="5"
+         x="192"
+         y="315" />
+      <path
+         id="path66"
+         style="fill:#464646;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         d="m 197,315 v 2 h 0.5 v -1.5 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g78">
+      <ellipse
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0168667;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse8"
+         cx="240"
+         cy="304"
+         rx="3"
+         ry="3.0000029" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect67"
+         width="5"
+         height="5"
+         x="251"
+         y="315" />
+    </g>
+    <g
+       id="g79">
+      <path
+         id="path67"
+         style="fill:#464646;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         d="m 283,293 h 2 v 0.5 h -1.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect68"
+         width="5"
+         height="5"
+         x="283"
+         y="288" />
+    </g>
+    <g
+       id="g80">
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect69"
+         width="5"
+         height="5"
+         x="288"
+         y="288" />
+      <path
+         id="path69"
+         style="fill:#464646;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         d="m 293,291 v 2 h -2 l 0.5,0.5 h 2 v -2 z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g81">
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect70"
+         width="5"
+         height="5"
+         x="0"
+         y="283" />
+      <path
+         id="path70"
+         style="fill:#464646;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         d="m 5,283 v 2 h 0.5 v -1.5 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g82">
+      <rect
+         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+         id="rect71"
+         width="5"
+         height="5"
+         x="59"
+         y="283" />
+    </g>
+  </g>
+</svg>

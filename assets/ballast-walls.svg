@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="320"
+   height="320"
+   viewBox="0 0 320 320"
+   sodipodi:docname="ballast-walls.svg"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   inkscape:export-filename="ballast-walls.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
+   inkscape:export-batch-path="/d/cm/blender/projects/zero-player/assets"
+   inkscape:export-batch-name="ballast-walls"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.52127281"
+       y="-0.52127281"
+       width="2.0425456"
+       height="2.0425456">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.4842243"
+         id="feGaussianBlur4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.25"
+       spacingy="0.25"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="32"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="ballast-walls">
+    <rect
+       style="display:inline;opacity:1;fill:#515151;fill-opacity:1;stroke-width:0.0270426;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="32"
+       height="32"
+       x="0"
+       y="288" />
+    <rect
+       style="display:inline;opacity:1;fill:#2f2f2f;fill-opacity:1;stroke-width:0.021972;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2"
+       width="26"
+       height="26"
+       x="3"
+       y="291" />
+    <rect
+       style="opacity:1;fill:#717171;fill-opacity:1;stroke-width:0.0215494;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3"
+       width="25.5"
+       height="25.5"
+       x="3.5"
+       y="291.5" />
+    <rect
+       style="display:inline;opacity:1;mix-blend-mode:normal;fill:#7d7d7d;fill-opacity:1;stroke-width:0.0861448;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter4)"
+       id="rect4"
+       width="25.25"
+       height="25.25"
+       x="3.75"
+       y="291.75"
+       transform="matrix(0.47505294,0,0,0.47505292,8.5960082,159.78077)" />
+  </g>
+</svg>

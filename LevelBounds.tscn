@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://uod22ekmvoaj"]
+
+[ext_resource type="Script" uid="uid://dlv02xgs1hl4h" path="res://level_bounds.gd" id="1_hvkeu"]
+
+[node name="LevelBounds" type="Polygon2D"]
+color = Color(1, 1, 1, 0)
+script = ExtResource("1_hvkeu")

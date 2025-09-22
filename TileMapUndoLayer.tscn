@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpv0kubkjeu8g"]
+
+[ext_resource type="Script" uid="uid://psdiv2brqpiv" path="res://tile_map_undo_layer.gd" id="1_fsh8g"]
+
+[node name="TileMapUndoLayer" type="TileMapLayer"]
+script = ExtResource("1_fsh8g")
