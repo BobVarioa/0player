@@ -7,6 +7,7 @@ This is an inprogress interactive version of [0player](https://caveadventure.itc
 Left Click - Select a box
 
 Middle Click + Move Mouse - Pan screen
+Right Click + Move Mouse - Pan screen
 
 Arrow Keys - Move a box
 
